@@ -3,7 +3,7 @@ title: Pig Trough Politics
 sections:
   - type: hero_section
     title: Pig Trough Politics
-    subtitle: Optional hero section subtitle
+    subtitle: Rootin' Around the Arkansas Mud
     content: >-
       A podcast for Web developers interested in building Jamstack websites.
       Hosted by Miles Tone.
