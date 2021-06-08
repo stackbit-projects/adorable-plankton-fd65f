@@ -2,7 +2,7 @@
 title: Pig Trough Politics
 sections:
   - type: hero_section
-    title: Welcome to DIYJam Podcast
+    title: Pig Trough Politics
     subtitle: Optional hero section subtitle
     content: >-
       A podcast for Web developers interested in building Jamstack websites.
