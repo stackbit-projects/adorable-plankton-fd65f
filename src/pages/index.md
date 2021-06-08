@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Pig Trough Politics
 sections:
   - type: hero_section
     title: Welcome to DIYJam Podcast
